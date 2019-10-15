@@ -438,10 +438,10 @@ aside{
 
 section{padding-top: 60px}
 section h1 { padding: 20px 20px }
-aside .openingstijden{
-  padding: 20px 20px;
-  color: white; margin-top: 22px; background-color: #c0392b;
-}
+
+.openingstijden { padding: 0 }
+.openingstijden p{ padding: 50px }
+
 nav{
   display:block;
 }
